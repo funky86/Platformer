@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PolicySet name="Platformer.mdpolicy">
+  <TextStylePolicy scope="text/x-csharp">
+    <FileWidth>80</FileWidth>
+    <TabsToSpaces>True</TabsToSpaces>
+  </TextStylePolicy>
+  <CSharpFormattingPolicy scope="text/x-csharp">
+    <NewLinesForBracesInTypes>False</NewLinesForBracesInTypes>
+    <NewLinesForBracesInMethods>False</NewLinesForBracesInMethods>
+    <NewLinesForBracesInProperties>False</NewLinesForBracesInProperties>
+    <NewLinesForBracesInAccessors>False</NewLinesForBracesInAccessors>
+    <NewLinesForBracesInAnonymousMethods>False</NewLinesForBracesInAnonymousMethods>
+    <NewLinesForBracesInControlBlocks>False</NewLinesForBracesInControlBlocks>
+    <NewLinesForBracesInAnonymousTypes>False</NewLinesForBracesInAnonymousTypes>
+    <NewLinesForBracesInObjectCollectionArrayInitializers>False</NewLinesForBracesInObjectCollectionArrayInitializers>
+    <NewLinesForBracesInLambdaExpressionBody>False</NewLinesForBracesInLambdaExpressionBody>
+    <NewLineForElse>False</NewLineForElse>
+    <NewLineForCatch>False</NewLineForCatch>
+    <NewLineForFinally>False</NewLineForFinally>
+    <NewLineForMembersInObjectInit>False</NewLineForMembersInObjectInit>
+    <NewLineForMembersInAnonymousTypes>False</NewLineForMembersInAnonymousTypes>
+  </CSharpFormattingPolicy>
+</PolicySet>
